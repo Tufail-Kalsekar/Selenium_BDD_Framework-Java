@@ -1,6 +1,6 @@
 # Author - Tufail Kalsekar
 # Selenium_BDD_Framework-Java
-# Test Automation Framework that uses Java, with Selenium WebDriver, TestNG - unit testing framework, and Cucumber (BDD) framework, on a Maven (quick-start-template).
+Test Automation Framework that uses Java, with Selenium WebDriver, TestNG - unit testing framework, and Cucumber (BDD) framework, on a Maven (quick-start-template).
 
 Note ~
 - to run this on your personal machine, pls make sure you have Java 8 or higher and a suitable IDE installed.
