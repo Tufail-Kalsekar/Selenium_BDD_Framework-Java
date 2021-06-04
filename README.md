@@ -7,14 +7,15 @@ Note ~
 - ensure webdriver version and browser compatibility
 
 Frequently asked questions ~
-- Where to write my Selenium tests?
-- You can place your tests in the following path src/test/java/
 
-- Where are page objects class files?
-- You can find them at, src/main/java/PageObjects/
+Where to write my Selenium tests?
+-You can place your tests in the following path src/test/java/
 
-- Where do I configure my Webdriver instance?
-- Configure your instance here, src/main/java/resources/
+Where are page objects class files?
+-You can find them at, src/main/java/PageObjects/
 
-- Where can I write my Cucumber feature files?
-- Start writing your cucumber feature files here, src/test/java/features
+Where do I configure my Webdriver instance?
+-Configure your instance here, src/main/java/resources/
+
+Where can I write my Cucumber feature files?
+-Start writing your cucumber feature files here, src/test/java/features
