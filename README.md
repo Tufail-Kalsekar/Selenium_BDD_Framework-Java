@@ -9,13 +9,16 @@ Note ~
 Frequently asked questions ~
 
 Where to write my Selenium tests?
--You can place your tests in the following path src/test/java/
+>You can place your tests in the following path src/test/java/
 
 Where are page objects class files?
--You can find them at, src/main/java/PageObjects/
+>You can find them at, src/main/java/PageObjects/
 
 Where do I configure my Webdriver instance?
--Configure your instance here, src/main/java/resources/
+>Configure your instance here, src/main/java/resources/
 
 Where can I write my Cucumber feature files?
--Start writing your cucumber feature files here, src/test/java/features
+>Start writing your cucumber feature files here, src/test/java/features
+
+Can I use test data stored in excel file in my tests?
+>Yes, make use to "Xls_reader" class by importing "com.excel.lib.util" package in your tests.
