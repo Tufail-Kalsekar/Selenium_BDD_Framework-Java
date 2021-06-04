@@ -21,4 +21,4 @@ Where can I write my Cucumber feature files?
 >Start writing your cucumber feature files here, src/test/java/features
 
 Can I use test data stored in excel file in my tests?
->Yes, make use to "Xls_reader" class by importing "com.excel.lib.util" package in your tests.
+>Yes, make use of "Xls_reader" class by importing "com.excel.lib.util" package in your tests.
